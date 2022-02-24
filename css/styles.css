@@ -4,7 +4,7 @@ body{
   text-align: center;
 }
 
-main{
+.container{
   background-color: white;
   border-radius: 1rem;
   box-shadow: 0 0 2px  rgba(0, 0, 0, 0.24);
