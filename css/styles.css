@@ -1,35 +1,35 @@
 body{
-  background-color: #d6e2f0;
+  background-color: 	#d6e2f0;
   font-family: 'Outfit', sans-serif;
   text-align: center;
 }
 
-p {
-  color: #7b879d;
-  font-size: 15px;
-  font-weight: 400;
-  width: 70%;
-  margin: 0 auto;
+main{
+  background-color: white;
+  border-radius: 1rem;
+  box-shadow: 0 0 2px  rgba(0, 0, 0, 0.24);
+  height: 32rem;
+  width: 20rem;
+  margin: 65px 500px;
 }
 
 img{
-  box-shadow: 0 0 0 2rem white;
-  border-radius: 12px;
-  width: 100%;
-
+  border-radius: 10px;
+  width: 290px;
+  position: relative;
+  top: 15px;
 }
 
-h2{
-  color: 	#1f3251;
-  font-weight: 700;
+h1{
+  color: #1f3251;
+  font-size: 23px;
+  margin: 30px auto;
+  width: 80%;
+}
+
+p{
+  color: #7b879d;
+  font-size: 15px;
   margin: 0 auto;
-  padding: 30px 35px 20px;
-}
-
-.bg{
-  background-color: white;
-  box-shadow: 0 0 0 2rem white;
-  border-radius: 12px;
-  margin: 100px 500px;
-  padding: 0 0 10px 0;
+  width: 80%;
 }
